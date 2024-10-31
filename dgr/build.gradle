@@ -15,7 +15,7 @@ afterEvaluate {
                 // You can then customize attributes of the publication as shown below.
                 groupId = 'com.github.LimGyeongMo'
                 artifactId = ''
-                version = '0.0.3'
+                version = '0.0.4'
             }
             // Creates a Maven publication called “debug”.
             debug(MavenPublication) {
@@ -24,7 +24,7 @@ afterEvaluate {
 
                 groupId = 'com.github.LimGyeongMo'
                 artifactId = 'final-debug'
-                version = '0.0.3'
+                version = '0.0.4'
             }
         }
     }
@@ -48,11 +48,11 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
     }
     kotlinOptions {
-        jvmTarget = '1.8'
+        jvmTarget = '11'
         freeCompilerArgs += '-Xexplicit-api=strict'
     }
     resourcePrefix 'dgr_'
