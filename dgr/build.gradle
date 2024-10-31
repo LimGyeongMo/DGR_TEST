@@ -53,7 +53,7 @@ android {
     }
     kotlinOptions {
         jvmTarget = '11'
-        freeCompilerArgs += '-Xexplicit-api=strict'
+//        freeCompilerArgs += '-Xexplicit-api=strict'
     }
     resourcePrefix 'dgr_'
 }
