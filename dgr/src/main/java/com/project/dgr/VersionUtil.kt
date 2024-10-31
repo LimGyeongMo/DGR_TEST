@@ -2,14 +2,14 @@ package com.project.dgr
 
 import android.content.Context
 
-object VersionUtil {
-    const val VERSION_ERROR: Int = -1
-    const val VERSION_LATEST: Int = 0
-    const val VERSION_LOW_MAJOR: Int = 1
-    const val VERSION_LOW_MINOR: Int = 2
-    const val VERSION_LOW_PATCH: Int = 3
+public object VersionUtil {
+    public const val VERSION_ERROR: Int = -1
+    public const val VERSION_LATEST: Int = 0
+    public const val VERSION_LOW_MAJOR: Int = 1
+    public const val VERSION_LOW_MINOR: Int = 2
+    public const val VERSION_LOW_PATCH: Int = 3
 
-    fun getVersionName(context: Context): String {
+    public fun getVersionName(context: Context): String {
         try {
             val packageInfo = context.packageManager.getPackageInfo(context.packageName, 0)
             return packageInfo.versionName
@@ -18,7 +18,7 @@ object VersionUtil {
         }
     }
 
-    fun getVersionCode(context: Context): Int {
+    public fun getVersionCode(context: Context): Int {
         try {
             val packageInfo = context.packageManager.getPackageInfo(context.packageName, 0)
             return packageInfo.versionCode
@@ -28,7 +28,7 @@ object VersionUtil {
     }
 
     // 버전명 비교(클라이언트 버전이 서버버전보다 더 크더라도 최신버전으로 인식)
-    fun checkVersionName(context: Context, serverVersion: String): Int {
+    public fun checkVersionName(context: Context, serverVersion: String): Int {
         val clientVersion: String
 
         try {
