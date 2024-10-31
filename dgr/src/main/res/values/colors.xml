@@ -1,210 +1,210 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Style Guide   -->
-    <color name="dgr_transparent">#00000000</color>
+    <color name="transparent">#00000000</color>
 
     <!-- White -->
-    <color name="dgr_white">#FFFFFF</color>
-    <color name="dgr_white_40">#66FFFFFF</color>
-    <color name="dgr_white_50">#80FFFFFF</color>
-    <color name="dgr_white_60">#99FFFFFF</color>
-    <color name="dgr_white_70">#B3FFFFFF</color>
-    <color name="dgr_white_80">#CCFFFFFF</color>
-    <color name="dgr_white_90">#E6FFFFFF</color>
-    <color name="dgr_white_95">#F2FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_40">#66FFFFFF</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="white_60">#99FFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="white_90">#E6FFFFFF</color>
+    <color name="white_95">#F2FFFFFF</color>
 
     <!-- Black -->
-    <color name="dgr_black">#000000</color>
-    <color name="dgr_black_15">#26000000</color>
-    <color name="dgr_black_25">#40000000</color>
-    <color name="dgr_black_35">#59000000</color>
-    <color name="dgr_black_50">#80000000</color>
-    <color name="dgr_black_60">#99000000</color>
-    <color name="dgr_black_90">#E6000000</color>
+    <color name="black">#000000</color>
+    <color name="black_15">#26000000</color>
+    <color name="black_25">#40000000</color>
+    <color name="black_35">#59000000</color>
+    <color name="black_50">#80000000</color>
+    <color name="black_60">#99000000</color>
+    <color name="black_90">#E6000000</color>
 
     <!-- Grey -->
-    <color name="dgr_grey900">#171717</color>
-    <color name="dgr_grey900_30">#4D171717</color>
+    <color name="grey900">#171717</color>
+    <color name="grey900_30">#4D171717</color>
 
-    <color name="dgr_grey800">#333333</color>
-    <color name="dgr_grey800_20">#32333333</color>
-    <color name="dgr_grey800_30">#4D333333</color>
-    <color name="dgr_grey800_50">#80333333</color>
-    <color name="dgr_grey800_60">#99333333</color>
-    <color name="dgr_grey800_70">#A8333333</color>
-    <color name="dgr_grey800_80">#CC333333</color>
-    <color name="dgr_grey800_90">#E6333333</color>
+    <color name="grey800">#333333</color>
+    <color name="grey800_20">#32333333</color>
+    <color name="grey800_30">#4D333333</color>
+    <color name="grey800_50">#80333333</color>
+    <color name="grey800_60">#99333333</color>
+    <color name="grey800_70">#A8333333</color>
+    <color name="grey800_80">#CC333333</color>
+    <color name="grey800_90">#E6333333</color>
 
-    <color name="dgr_grey700">#666666</color>
-    <color name="dgr_grey700_40">#66666666</color>
+    <color name="grey700">#666666</color>
+    <color name="grey700_40">#66666666</color>
 
-    <color name="dgr_grey600">#999999</color>
-    <color name="dgr_grey600_40">#66999999</color>
-    <color name="dgr_grey600_50">#80999999</color>
-    <color name="dgr_grey600_60">#99999999</color>
-    <color name="dgr_grey600_68">#AD999999</color>
-    <color name="dgr_grey600_80">#CC999999</color>
+    <color name="grey600">#999999</color>
+    <color name="grey600_40">#66999999</color>
+    <color name="grey600_50">#80999999</color>
+    <color name="grey600_60">#99999999</color>
+    <color name="grey600_68">#AD999999</color>
+    <color name="grey600_80">#CC999999</color>
 
-    <color name="dgr_grey500">#C4C4C4</color>
-    <color name="dgr_grey500_40">#66C4C4C4</color>
+    <color name="grey500">#C4C4C4</color>
+    <color name="grey500_40">#66C4C4C4</color>
 
-    <color name="dgr_grey400">#E6E6E6</color>
-    <color name="dgr_grey400_40">#66E6E6E6</color>
-    <color name="dgr_grey400_50">#80E6E6E6</color>
+    <color name="grey400">#E6E6E6</color>
+    <color name="grey400_40">#66E6E6E6</color>
+    <color name="grey400_50">#80E6E6E6</color>
 
-    <color name="dgr_grey200">#F2F2F2</color>
-    <color name="dgr_grey200_40">#66F2F2F2</color>
-    <color name="dgr_grey200_70">#A8F2F2F2</color>
-    <color name="dgr_grey200_75">#A8F2F2F2</color>
+    <color name="grey200">#F2F2F2</color>
+    <color name="grey200_40">#66F2F2F2</color>
+    <color name="grey200_70">#A8F2F2F2</color>
+    <color name="grey200_75">#A8F2F2F2</color>
 
-    <color name="dgr_grey100">#F9F9F9</color>
+    <color name="grey100">#F9F9F9</color>
 
     <!-- Alpha -->
-    <color name="dgr_dimmed">#99F9F9F9</color>
-    <color name="dgr_disabled">#4D333333</color>
+    <color name="dimmed">#99F9F9F9</color>
+    <color name="disabled">#4D333333</color>
 
     <!-- primary : 주요 행동을 유도하는 버튼, 화면에서 가장 중요한 요소를 강조할 때 사용 -->
-    <color name="dgr_primary400">#00BCFF</color>
+    <color name="primary400">#00BCFF</color>
 
-    <color name="dgr_primary300">#01CAFF</color>
-    <color name="dgr_primary300_5">#0d01CAFF</color>
-    <color name="dgr_primary300_10">#1901CAFF</color>
-    <color name="dgr_primary300_21">#3601CAFF</color>
+    <color name="primary300">#01CAFF</color>
+    <color name="primary300_5">#0d01CAFF</color>
+    <color name="primary300_10">#1901CAFF</color>
+    <color name="primary300_21">#3601CAFF</color>
 
-    <color name="dgr_primary200">#70D8FF</color>
-    <color name="dgr_primary100">#ACE7FE</color>
-    <color name="dgr_primary50">#E8FAFF</color>
+    <color name="primary200">#70D8FF</color>
+    <color name="primary100">#ACE7FE</color>
+    <color name="primary50">#E8FAFF</color>
 
     <!-- Accent : 에러, 경고, 할인, 신규(신상) 등에 사용 -->
-    <color name="dgr_red600">#E52222</color>
-    <color name="dgr_red500">#F73637</color>
-    <color name="dgr_red400">#FB5B53</color>
-    <color name="dgr_red50">#FFECEF</color>
+    <color name="red600">#E52222</color>
+    <color name="red500">#F73637</color>
+    <color name="red400">#FB5B53</color>
+    <color name="red50">#FFECEF</color>
 
     <!-- Delivery : 주로 '배달포장'에 사용되는 색상  -->
-    <color name="dgr_orange600">#FF923B</color>
-    <color name="dgr_orange600_80">#80FF923B</color>
+    <color name="orange600">#FF923B</color>
+    <color name="orange600_80">#80FF923B</color>
 
-    <color name="dgr_orange50">#FFE2BB</color>
+    <color name="orange50">#FFE2BB</color>
 
-    <color name="dgr_blue800">#006CE2</color>
-    <color name="dgr_blue500">#268EFF</color>
+    <color name="blue800">#006CE2</color>
+    <color name="blue500">#268EFF</color>
 
-    <color name="dgr_blue50">#E8F3FF</color>
+    <color name="blue50">#E8F3FF</color>
 
     <!-- Biz : '비즈'에만 사용되는 색상입니다. -->
-    <color name="dgr_BizPrimary700">#053863</color>
-    <color name="dgr_BizPrimary500">#1D6393</color>
-    <color name="dgr_BizPrimary50">#E7F4FA</color>
+    <color name="BizPrimary700">#053863</color>
+    <color name="BizPrimary500">#1D6393</color>
+    <color name="BizPrimary50">#E7F4FA</color>
 
     <!-- Old Style -->
-    <color name="dgr_color_55DCFF">#55DCFF</color>
-    <color name="dgr_color_E2F8FF">#E2F8FF</color>
-    <color name="dgr_color_F2F2F4">#F2F2F4</color>
+    <color name="color_55DCFF">#55DCFF</color>
+    <color name="color_E2F8FF">#E2F8FF</color>
+    <color name="color_F2F2F4">#F2F2F4</color>
 
-    <color name="dgr_color_979798">#979798</color>
-    <color name="dgr_color_FF5B5B">#FF5B5B</color>
-    <color name="dgr_color_FF5353">#FF5353</color>
-    <color name="dgr_color_EC2430">#EC2430</color>
-    <color name="dgr_color_D80017">#D80017</color>
-    <color name="dgr_color_E30613">#E30613</color>
-    <color name="dgr_color_E30613_7">#12E30613</color>
-    <color name="dgr_color_EB0220">#EB0220</color>
-    <color name="dgr_color_DC0700">#DC0700</color>
-    <color name="dgr_color_C40025">#c40025</color>
-    <color name="dgr_color_F22100">#F22100</color>
-    <color name="dgr_color_E52222">#E52222</color>
-    <color name="dgr_color_F22100_40">#66F22100</color>
-    <color name="dgr_color_F22100_99">#99F22100</color>
-    <color name="dgr_color_FF404B_90">#E6FF404B</color>
+    <color name="color_979798">#979798</color>
+    <color name="color_FF5B5B">#FF5B5B</color>
+    <color name="color_FF5353">#FF5353</color>
+    <color name="color_EC2430">#EC2430</color>
+    <color name="color_D80017">#D80017</color>
+    <color name="color_E30613">#E30613</color>
+    <color name="color_E30613_7">#12E30613</color>
+    <color name="color_EB0220">#EB0220</color>
+    <color name="color_DC0700">#DC0700</color>
+    <color name="color_C40025">#c40025</color>
+    <color name="color_F22100">#F22100</color>
+    <color name="color_E52222">#E52222</color>
+    <color name="color_F22100_40">#66F22100</color>
+    <color name="color_F22100_99">#99F22100</color>
+    <color name="color_FF404B_90">#E6FF404B</color>
 
-    <color name="dgr_color_FAE100">#FAE100</color>
-    <color name="dgr_color_FEE500">#FEE500</color>
-    <color name="dgr_color_FFDD00">#ffdd00</color>
-    <color name="dgr_color_FFD300">#ffb300</color>
-    <color name="dgr_color_F7B744">#F7B744</color>
-    <color name="dgr_color_FFA200">#FFA200</color>
-    <color name="dgr_color_FF8727">#FF8727</color>
-    <color name="dgr_color_FF7403">#FF7403</color>
-    <color name="dgr_color_FF7100">#FF7100</color>
-    <color name="dgr_color_FEE1CA">#FEE1CA</color>
-    <color name="dgr_color_FFAA00">#FFAA00</color>
+    <color name="color_FAE100">#FAE100</color>
+    <color name="color_FEE500">#FEE500</color>
+    <color name="color_FFDD00">#ffdd00</color>
+    <color name="color_FFD300">#ffb300</color>
+    <color name="color_F7B744">#F7B744</color>
+    <color name="color_FFA200">#FFA200</color>
+    <color name="color_FF8727">#FF8727</color>
+    <color name="color_FF7403">#FF7403</color>
+    <color name="color_FF7100">#FF7100</color>
+    <color name="color_FEE1CA">#FEE1CA</color>
+    <color name="color_FFAA00">#FFAA00</color>
 
-    <color name="dgr_color_FF5722">#FF5722</color>
-    <color name="dgr_color_FF5823">#FF5823</color>
-    <color name="dgr_color_FF6F00">#FF6F00</color>
-    <color name="dgr_color_AF7F58">#AF7F58</color>
-    <color name="dgr_color_BE5F00">#BE5F00</color>
+    <color name="color_FF5722">#FF5722</color>
+    <color name="color_FF5823">#FF5823</color>
+    <color name="color_FF6F00">#FF6F00</color>
+    <color name="color_AF7F58">#AF7F58</color>
+    <color name="color_BE5F00">#BE5F00</color>
 
-    <color name="dgr_color_03C75A">#03C75A</color>
-    <color name="dgr_color_6CCF10">#6CCF10</color>
-    <color name="dgr_color_75B843">#75B843</color>
-    <color name="dgr_color_70CD2B">#70cd2b</color>
-    <color name="dgr_color_0CC500">#0cc500</color>
-    <color name="dgr_color_00A87D">#00a87d</color>
-    <color name="dgr_color_00A23b">#00a23b</color>
-    <color name="dgr_color_00AD9F">#00ad9f</color>
-    <color name="dgr_color_008142">#008142</color>
-    <color name="dgr_color_8AD644">#8AD644</color>
+    <color name="color_03C75A">#03C75A</color>
+    <color name="color_6CCF10">#6CCF10</color>
+    <color name="color_75B843">#75B843</color>
+    <color name="color_70CD2B">#70cd2b</color>
+    <color name="color_0CC500">#0cc500</color>
+    <color name="color_00A87D">#00a87d</color>
+    <color name="color_00A23b">#00a23b</color>
+    <color name="color_00AD9F">#00ad9f</color>
+    <color name="color_008142">#008142</color>
+    <color name="color_8AD644">#8AD644</color>
 
-    <color name="dgr_color_DBF6FE">#DBF6FE</color>
-    <color name="dgr_color_ABEDFF">#ABEDFF</color>
-    <color name="dgr_color_D9F7FF">#D9F7FF</color>
-    <color name="dgr_color_75E2FF">#75E2FF</color>
-    <color name="dgr_color_EAF9FF">#EAF9FF</color>
-    <color name="dgr_color_00AFFF">#00AFFF</color>
-    <color name="dgr_color_0895DF">#0895DF</color>
-    <color name="dgr_color_145b97">#145b97</color>
-    <color name="dgr_color_018EEC">#018eec</color>
-    <color name="dgr_color_00A1E9">#00A1E9</color>
-    <color name="dgr_color_2971F6">#2971f6</color>
-    <color name="dgr_color_007DFA">#007dfa</color>
-    <color name="dgr_color_0D4D82">#0D4D82</color>
-    <color name="dgr_color_183290">#183290</color>
-    <color name="dgr_color_0046AF">#0046AF</color>
-    <color name="dgr_color_0046AF_10">#1A0046AF</color>
-    <color name="dgr_color_0077D3">#0077d3</color>
+    <color name="color_DBF6FE">#DBF6FE</color>
+    <color name="color_ABEDFF">#ABEDFF</color>
+    <color name="color_D9F7FF">#D9F7FF</color>
+    <color name="color_75E2FF">#75E2FF</color>
+    <color name="color_EAF9FF">#EAF9FF</color>
+    <color name="color_00AFFF">#00AFFF</color>
+    <color name="color_0895DF">#0895DF</color>
+    <color name="color_145b97">#145b97</color>
+    <color name="color_018EEC">#018eec</color>
+    <color name="color_00A1E9">#00A1E9</color>
+    <color name="color_2971F6">#2971f6</color>
+    <color name="color_007DFA">#007dfa</color>
+    <color name="color_0D4D82">#0D4D82</color>
+    <color name="color_183290">#183290</color>
+    <color name="color_0046AF">#0046AF</color>
+    <color name="color_0046AF_10">#1A0046AF</color>
+    <color name="color_0077D3">#0077d3</color>
 
-    <color name="dgr_color_4D4D4D_10">#1A4D4D4D</color>
+    <color name="color_4D4D4D_10">#1A4D4D4D</color>
 
-    <color name="dgr_E7E7E7_80">#B3E7E7E7</color>
+    <color name="E7E7E7_80">#B3E7E7E7</color>
 
-    <color name="dgr_color_CCCCCC">#CCCCCC</color>
+    <color name="color_CCCCCC">#CCCCCC</color>
 
-    <color name="dgr_color_303233">#303233</color>
-    <color name="dgr_color_555555">#555555</color>
-    <color name="dgr_color_767676">#767676</color>
-    <color name="dgr_color_514646">#514646</color>
-    <color name="dgr_color_202020">#202020</color>
-    <color name="dgr_color_290000">#29000000</color>
-    <color name="dgr_color_FEE7E6">#FEE7E6</color>
-    <color name="dgr_color_8D8D8D">#8D8D8D</color>
-    <color name="dgr_color_A4A4A4">#A4A4A4</color>
-    <color name="dgr_color_888888">#888888</color>
-    <color name="dgr_color_DFF6FF">#DFF6FF</color>
-    <color name="dgr_color_EBF9FF">#EBF9FF</color>
-    <color name="dgr_color_F1FCFF">#F1FCFF</color>
-    <color name="dgr_color_F8F8F8">#F8F8F8</color>
-    <color name="dgr_color_DCDCDC">#DCDCDC</color>
-    <color name="dgr_color_E5E5E5">#e5e5e5</color>
+    <color name="color_303233">#303233</color>
+    <color name="color_555555">#555555</color>
+    <color name="color_767676">#767676</color>
+    <color name="color_514646">#514646</color>
+    <color name="color_202020">#202020</color>
+    <color name="color_290000">#29000000</color>
+    <color name="color_FEE7E6">#FEE7E6</color>
+    <color name="color_8D8D8D">#8D8D8D</color>
+    <color name="color_A4A4A4">#A4A4A4</color>
+    <color name="color_888888">#888888</color>
+    <color name="color_DFF6FF">#DFF6FF</color>
+    <color name="color_EBF9FF">#EBF9FF</color>
+    <color name="color_F1FCFF">#F1FCFF</color>
+    <color name="color_F8F8F8">#F8F8F8</color>
+    <color name="color_DCDCDC">#DCDCDC</color>
+    <color name="color_E5E5E5">#e5e5e5</color>
 
-    <color name="dgr_color_AFB1B5">#afb1b5</color>
-    <color name="dgr_color_F6F6F6">#f6f6f6</color>
-    <color name="dgr_color_E9F9FE">#E9F9FE</color>
-    <color name="dgr_color_E2F9FF">#E2F9FF</color>
-    <color name="dgr_color_F0FCFF">#f0fcff</color>
-    <color name="dgr_color_CDD7E0">#CDD7E0</color>
-    <color name="dgr_color_E1F1FF">#E1F1FF</color>
+    <color name="color_AFB1B5">#afb1b5</color>
+    <color name="color_F6F6F6">#f6f6f6</color>
+    <color name="color_E9F9FE">#E9F9FE</color>
+    <color name="color_E2F9FF">#E2F9FF</color>
+    <color name="color_F0FCFF">#f0fcff</color>
+    <color name="color_CDD7E0">#CDD7E0</color>
+    <color name="color_E1F1FF">#E1F1FF</color>
 
-    <color name="dgr_card_color1">#F50038</color>
-    <color name="dgr_card_color2">#F6AD00</color>
-    <color name="dgr_card_color3">#009756</color>
-    <color name="dgr_card_color4">#0088F4</color>
-    <color name="dgr_card_color5">#333333</color>
+    <color name="card_color1">#F50038</color>
+    <color name="card_color2">#F6AD00</color>
+    <color name="card_color3">#009756</color>
+    <color name="card_color4">#0088F4</color>
+    <color name="card_color5">#333333</color>
 
-    <color name="dgr_color_5E5CE6">#5E5CE6</color>
-    <color name="dgr_color_FF636E">#FF636E</color>
-    <color name="dgr_color_01646A">#01646A</color>
+    <color name="color_5E5CE6">#5E5CE6</color>
+    <color name="color_FF636E">#FF636E</color>
+    <color name="color_01646A">#01646A</color>
 
 </resources>
 
