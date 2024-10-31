@@ -3,11 +3,11 @@ package com.project.dgr
 import android.content.Context
 
 public object VersionUtil {
-    public const val VERSION_ERROR: Int = -1
-    public const val VERSION_LATEST: Int = 0
-    public const val VERSION_LOW_MAJOR: Int = 1
-    public const val VERSION_LOW_MINOR: Int = 2
-    public const val VERSION_LOW_PATCH: Int = 3
+    private const val VERSION_ERROR: Int = -1
+    private const val VERSION_LATEST: Int = 0
+    private const val VERSION_LOW_MAJOR: Int = 1
+    private const val VERSION_LOW_MINOR: Int = 2
+    private const val VERSION_LOW_PATCH: Int = 3
 
     public fun getVersionName(context: Context): String {
         try {
