@@ -16,6 +16,7 @@ public object VersionUtil {
         } catch (e: Exception) {
             return ""
         }
+
     }
 
     public fun getVersionCode(context: Context): Int {
