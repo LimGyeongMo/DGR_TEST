@@ -1,6 +1,6 @@
 package com.project.dgr
 
-object getColor {
+object dgr {
     val transparent = R.color.transparent
 
     // White
