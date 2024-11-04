@@ -24,7 +24,7 @@ afterEvaluate {
 
                 groupId = 'com.github.LimGyeongMo'
                 artifactId = 'final-debug'
-                version = '0.0.13'
+                version = '0.0.142'
             }
         }
     }

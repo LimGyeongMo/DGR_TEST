@@ -6,7 +6,9 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import com.project.dgr.ConvertJsonUtil
+import com.project.dgr.dgrColor
 import com.project.dgr.dgrDrawable
+import com.project.dgr.dgrString
 import org.json.JSONArray
 
 class MainActivity : AppCompatActivity() {
@@ -23,6 +25,9 @@ class MainActivity : AppCompatActivity() {
         }
 
         getDrawable(dgrDrawable.bg_circle_2)
+        dgrColor.color_0046AF
+        dgrString.do_save
+
         ConvertJsonUtil.convertJson("", "", object : ConvertJsonUtil.ConvertJsonListener {
             override fun success(jsonArray: JSONArray) {
                 // TODO: 성공 처리
