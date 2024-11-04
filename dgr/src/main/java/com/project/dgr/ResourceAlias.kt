@@ -4,4 +4,3 @@ package com.project.dgr
 typealias dgrDrawable = com.project.dgr.R.drawable
 typealias dgrString = com.project.dgr.R.string
 typealias dgrColor = com.project.dgr.R.color
-typealias dgrLayout = com.project.dgr.R.layout
